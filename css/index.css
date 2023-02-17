@@ -3,6 +3,9 @@
    
 }
 
+body {
+    background-color: lightgray;
+}
 .green-border {
     border-color: lightgreen;
     border-width: 5px;
