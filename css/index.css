@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+   
+}
+
+.green-border {
+    border-color: lightgreen;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 50%;
+}
